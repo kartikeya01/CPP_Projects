@@ -1,2 +1,2 @@
-# CPP_Projects
+# C++ Projects
 A collection of various C++ projects I have completed
